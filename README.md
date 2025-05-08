@@ -1,2 +1,2 @@
-Typora Toturial
+Typora Tutorial
 
